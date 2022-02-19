@@ -1,1 +1,4 @@
-moment().format('MMMM Do YYYY, h:mm:ss a');
+// Timestamp
+let currentTime = moment().format('MMMM Do YYYY, h:mm:ss a');
+
+
