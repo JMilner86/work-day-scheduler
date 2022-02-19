@@ -1,4 +1,4 @@
 // Timestamp
-let currentTime = moment().format('MMMM Do YYYY, h:mm:ss a');
+let currentTime = moment().format('MMMM Do YYYY');
 
-
+$('#currentDay').append(currentTime);
