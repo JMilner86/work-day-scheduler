@@ -26,7 +26,10 @@ else {
     $('.list-group-item').css('.future');
 }
 
-
+// Put the current time into a function
+// Dynamically declare the time-blocks?
+// Maybe put the time blocks into an array?
+// Add event listener on page load
 
 // moment().format("MM ddd, YYYY hh:mm:ss a")
 
